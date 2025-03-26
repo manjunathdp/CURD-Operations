@@ -15,6 +15,6 @@ public class Details {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long id;
     String firstName;
-    String middleNane;
+    String middleName;
     String lastName;
 }
